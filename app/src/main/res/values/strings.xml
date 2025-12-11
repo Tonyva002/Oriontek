@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrionTek</string>
+    <string name="detail_title_message">Address</string>
+    <string name="direccion_cliente">Direccion del cliente Oriontek</string>
+    <string name="image_message">Image</string>
+    <string name="imagen_del_cliente">Imagen del cliente</string>
+    <string name="lista_de_clientes_de_oriontek">Lista de clientes de OrionTek</string>
+</resources>

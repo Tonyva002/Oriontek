@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "251935208983",
+    "firebase_url": "https://oriontek-9225c-default-rtdb.firebaseio.com",
+    "project_id": "oriontek-9225c",
+    "storage_bucket": "oriontek-9225c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251935208983:android:7ac4b0491f8352cc6c0e52",
+        "android_client_info": {
+          "package_name": "com.example.oriontek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCqdKgkC794Cn7e1N2-5VxecH0czRDUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
